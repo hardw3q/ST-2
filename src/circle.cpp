@@ -1,3 +1,4 @@
+// Copyright 2022 UNN-CS
 #include <cmath>
 #include "circle.h"
 

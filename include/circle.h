@@ -1,5 +1,7 @@
+// Copyright 2022 UNN-CS
 #ifndef INCLUDE_CIRCLE_H_
 #define INCLUDE_CIRCLE_H_
+
 class Circle {
  private:
     double radius;
@@ -16,4 +18,4 @@ class Circle {
     double getArea() const;
 };
 
-#endif
+#endif  // INCLUDE_CIRCLE_H_
